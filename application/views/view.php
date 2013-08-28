@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>MEOW World!</h1>
+    <h1>Yao World!</h1>
 
     <div >
         <p>My First CodeIgniter Application.
